@@ -6,7 +6,7 @@
 
 # Demo-Preview #
 <a name="deployment-video"></a>
-![alt text](https://github.com/chinsaw/rocket-web-koss/blob/master/koss-project.png?raw=true)
+![alt text](https://github.com/chinsaw/rocket-web-koss/blob/master/koss-project2.png?raw=true)
 
 ***Please take a look at a short clip of this project deployment here:-*** [https://youtu.be/BqI-l-WJ8wM]
 

@@ -111,7 +111,7 @@ Frankly, I learned a lot, i didn't know much of the frontend,
 So in order to render a good html,css,and javascript i had to learn bootstrap a bit and also came to know about 
 template rendering engines in rust such as [tera](https://tera.netlify.app/).<br />
 Although i never used that in this project, it was a valuable learing experience.
-<br />I had to struggle a lot in static file rendering in rust's rocket, as rocket is a relatively new framework and don't have much documentation.I had to hike around a lot for this.
+<br />I had to struggle a lot in static file rendering in rust's rocket, as rocket is a relatively new framework and don't have easy-following tutorials.I had to hike around a lot for this, fortunately rust is well documented and that was a big help.
 <br /><br />
 *And most importantly i learned **docker** which was a pleasant and valuable learinig experience.*
 

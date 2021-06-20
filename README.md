@@ -6,6 +6,8 @@
 
 ![alt text](https://github.com/chinsaw/rocket-web-koss/blob/master/clip2.png?raw=true)
 
+>**Please take a look at a short clip of this project deployment here:-** [https://www.youtube.com/watch?v=yJg-Y5byMMw]
+
 # Table of contents
 
 - [Project Title](#project-title)

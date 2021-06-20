@@ -1,6 +1,6 @@
 # Project Title #
 **Rocket-Web-Koss**
-<br />A simple static website using rocket framework in rust.
+<br />A simple webserver using rocket framework in rust.
 
 # Demo-Preview
 

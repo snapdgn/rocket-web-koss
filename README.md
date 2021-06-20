@@ -1,6 +1,6 @@
 # Project Title #
 **Rocket-Web-Koss**
-<br />A simple static website using rocket framework in rust
+<br />A simple static website using rocket framework in rust.
 
 # Demo-Preview
 
@@ -16,7 +16,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Development](#development)
-
 
 # Installation
 [(Back to top)](#table-of-contents)
@@ -74,4 +73,21 @@ cargo run --release
 
 # Development
 [(Back to top)](#table-of-contents)
+
+I've tried to make this thing as minimalistic as possible with minimum creates, i used only rocket version 0.4.10, for this project.
+
+Some neat tricks i Learned:-
+> - One could use cargo add <crate name> to easily download and include the crate in Cargo.toml file.
+  You've to download cargo add first by `cargo install <crate name>.
+> - You could explore a range of crates in [crates.io](crates.io)
+
+# What i've learned by making this project?
+[(Back to top)](#table-of-contents)
+</br>
+Frankly, I learned a lot, i didn't know much of the frontend.So in order to render html,css,and javascript i had to learn bootstrap and also came to know about 
+template rendering engines in rust such as tera. Although i never used that in this project, it was a valuable learing experience.
+I had to struggle a lot in static file rendering in rust's rocket, as rocket is a relatively new framework and don't have much documentation.I had to hike around a lot for this.
+
+
+
 

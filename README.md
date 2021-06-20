@@ -54,7 +54,7 @@ Please refer to offical docs of rust if you are facing problems in installation.
 
 ### Repo Cloning ###
 
-After rust installaion and setup Clone this repo.
+After rust installation and setup Clone this repo.
 <br />
 ```
 https://github.com/chinsaw/rocket-web-koss.git

@@ -53,7 +53,7 @@ After rust installaion and setup Clone this repo.
 ```
 https://github.com/chinsaw/rocket-web-koss.git
 ```
-<br />*A remainder to Switch to nightly again*
+<br />*A reminder to Switch to nightly again*
 <br /><br />
 
 
@@ -88,7 +88,7 @@ Some neat tricks i Learned:-
 [(Back to top)](#table-of-contents)
 </br>
 Frankly, I learned a lot, i didn't know much of the frontend.So in order to render html,css,and javascript i had to learn bootstrap and also came to know about 
-template rendering engines in rust such as tera. Although i never used that in this project, it was a valuable learing experience.
+template rendering engines in rust such as [tera](https://tera.netlify.app/). Although i never used that in this project, it was a valuable learing experience.
 I had to struggle a lot in static file rendering in rust's rocket, as rocket is a relatively new framework and don't have much documentation.I had to hike around a lot for this.
 
 

@@ -24,18 +24,21 @@
 follow on screen instructions.
 <br />
 
-`curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-`
+```
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
 <br /><br /> If rustup is already installed in your system simply update it by 
 <br />
-```rustup update```
+```
+rustup update
+```
 <br /><br /> To check if rust is properly installed in your system run
 <br />
-```rustc --version```
+```
+rustc --version
+```
 <br /><br />
 Please refer to offical docs of rust if you are facing problems in installation.
-<br />
-
 [Rust-Installation-Guide](https://www.rust-lang.org/tools/install)
 
 *Since this project uses rust nightly , You have to switch over to rust nightly in order for this to work*
@@ -45,11 +48,27 @@ Please refer to offical docs of rust if you are facing problems in installation.
 ### Repo Cloning ###
 
 After rust installaion and setup Clone this repo.
+<br />
+```
+https://github.com/chinsaw/rocket-web-koss.git
+```
+<br />*A remainder to Switch to nightly again*
+<br /><br />
 
 
 
 # Usage
 [(Back to top)](#table-of-contents)
+
+Enter these commands in succesion after cloning the repo
+```
+cd rocket-web-koss
+cargo run --release
+
+```
+**Note:**
+> - *Make Sure you type the exact commands*
+> - *Make sure you're in the root directory of the project (this project is not configured to use the relative path) before running `cargo run --release`, or else page may break since it can't load the css and js which is in another folder.*
 
 # Development
 [(Back to top)](#table-of-contents)

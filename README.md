@@ -16,6 +16,8 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Development](#development)
+- [Docker-Build](#docker)
+- [What i've learned by making this project?](#learnings)
 
 # Installation
 [(Back to top)](#table-of-contents)
@@ -84,6 +86,12 @@ Some neat tricks i Learned:-
   You've to download cargo add first by `cargo install <crate name>`.
 > - You could explore a range of crates in [crates.io](crates.io)
 
+<a name="docker"></a>
+# Docker-Build
+[(Back to top)](#table-of-contents)
+
+
+<a name="learnings"></a>
 # What i've learned by making this project?
 [(Back to top)](#table-of-contents)
 </br>

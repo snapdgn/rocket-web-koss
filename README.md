@@ -6,7 +6,7 @@
 
 ![alt text](https://github.com/chinsaw/rocket-web-koss/blob/master/clip2.png?raw=true)
 
->**Please take a look at a short clip of this project deployment here:-** [https://www.youtube.com/watch?v=yJg-Y5byMMw]
+***Please take a look at a short clip of this project deployment here:-*** [https://youtu.be/BqI-l-WJ8wM]
 
 # Table of contents
 
@@ -67,7 +67,10 @@ cd rocket-web-koss
 cargo run --release
 
 ```
+
+
 **Note:**
+> - The endpoint is [http://0.0.0.0:8000/static] Make sure to go to the the **/static** endpoint to render the contents.The landing page is simply a "hello world".
 > - *Make Sure you type the exact commands*
 > - *Make sure you're in the root directory of the project (this project is not configured to use the relative path) before running `cargo run --release`, or else page may break since it can't load the css and js which is in another folder.*
 

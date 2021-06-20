@@ -7,7 +7,7 @@ use rocket_contrib::serve::StaticFiles;
 
 #[get("/")]
 fn index() -> &'static str {
-    "Hello, world!"
+    "Please go to the the /static endpoint i.e. http://0.0.0.0:8000/static"
 }
 fn main() {
     rocket::ignite()

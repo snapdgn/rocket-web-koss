@@ -77,8 +77,8 @@ cargo run --release
 I've tried to make this thing as minimalistic as possible with minimum creates, i used only rocket version 0.4.10, for this project.
 
 Some neat tricks i Learned:-
-> - One could use cargo add <crate name> to easily download and include the crate in Cargo.toml file.
-  You've to download cargo add first by `cargo install <crate name>.
+> - One could use `cargo add <crate name>` to easily download and include the crate in Cargo.toml file.
+  You've to download cargo add first by `cargo install <crate name>`.
 > - You could explore a range of crates in [crates.io](crates.io)
 
 # What i've learned by making this project?

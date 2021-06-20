@@ -4,7 +4,7 @@
 
 # Demo-Preview
 
-![alt text](https://github.com/chinsaw/rocket-web-koss/blob/master/clip2.png?raw=true)
+![alt text](https://github.com/chinsaw/rocket-web-koss/blob/master/clip_mod_1.png?raw=true)
 
 ***Please take a look at a short clip of this project deployment here:-*** [https://youtu.be/BqI-l-WJ8wM]
 

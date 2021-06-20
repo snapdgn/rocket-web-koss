@@ -14,7 +14,6 @@ fn main() {
         .mount("/", routes![index])
         .mount("/static", StaticFiles::from("static"))
        // .mount("/", StaticFiles::from(concat!(env!("CARGO_MANIFEST_DIR"), "/static")))
-        //.mount("/static/assets", StaticFiles::from("static"))
         .launch();
 }
 

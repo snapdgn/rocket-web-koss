@@ -44,7 +44,8 @@ Please refer to offical docs of rust if you are facing problems in installation.
 
 ### Repo Cloning ###
 
-After rust installaion and setup
+After rust installaion and setup Clone this repo.
+
 
 
 # Usage

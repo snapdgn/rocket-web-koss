@@ -19,7 +19,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Development](#development)
-- [Docker-Build](#docker)
 - [What i've learned by making this project?](#learnings)
 
 # Installation
@@ -89,19 +88,6 @@ Some neat tricks i Learned:-
 > - One could use `cargo add <crate name>` to easily download and include the crate in Cargo.toml file.
   You've to download cargo add first by `cargo install <crate name>`.
 > - You could explore a range of crates in [crates.io](crates.io)
-
-<a name="docker"></a>
-# Docker-Build
-[(Back to top)](#table-of-contents)
-
-I've included a Dokerfile in this repo out of which a docker image could be made and deployed.
-<br />
-* I've used the minimalistic distro i.e.*alpine* and pulled *rust's* official image on top of that.
-* I then copied the current directory to the /app directory and set it to current working directory(WORKDIR),i then switched to rust's nightly and deployed the server.
-* I thought of building a image and uploading it to dockerhub, but the image size was approx 4GB,so i couldn't do it because of low bandwidth.
-
-**This is the more or less the deployment process in docker**
-
 
 <a name="learnings"></a>
 # What i've learned by making this project?
